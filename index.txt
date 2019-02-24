@@ -1,1 +1,2 @@
 ﻿This file contains code of version 2
+This line added.
