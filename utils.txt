@@ -1,0 +1,1 @@
+﻿This file has all the utility functions of version 1
